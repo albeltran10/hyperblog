@@ -2,10 +2,4 @@ Documento de texto
 
 Para realizar los ejercicios de Git.
 
-Un cambio al archivo
-
-nueva linea
-
-Tercer cambio realizado al archivo
-
-Cuarto cambio a prueba.txt
+Otro cambio
